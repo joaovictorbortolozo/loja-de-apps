@@ -124,11 +124,6 @@ main{
 .cara{
 margin-left:131px;
 
-}
-.desenvolvedor{
-
-}
-.mark{
 
 }
 main div{
@@ -138,4 +133,30 @@ main div{
 .p{
     color: #575757;
     padding-bottom: 14px;
+}
+.link{
+    text-decoration: none;
+    color: #2203e4;
+    font-size: 21px;
+
+   
+}
+.fundo{
+    background-color: #0062ff;
+    color: #ffff;
+}
+.paravc{
+    text-align: center;
+    padding-top: 71px;
+}
+.paravc h2{
+    font-size: 36px;
+}
+.estudantes{
+    display: flex;
+
+}
+.freelancer{
+   display: flex;
+
 }
