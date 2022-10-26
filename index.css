@@ -109,11 +109,12 @@ div main {
 
 .botao2 {
     width: 120px;
-    height: 36px;
-    right: 332px;
+    height: 40px;
+    right: 335px;
     color: #575757;
-    line-height: 120%;
+    line-height: 34px;
     background-color: #ffffff;
+    
 
 }
 main{
@@ -141,6 +142,9 @@ main div{
     color: #575757;
     padding-bottom: 14px;
     
+}
+.desenvolvedor{
+    padding-left: 112px;
 }
 .link{
     text-decoration: none;
@@ -222,4 +226,115 @@ padding-bottom: 14px;
 }
 .j{
     padding-bottom: 110px;
+
+}
+.h1-texto{
+ text-align: center;
+ padding-bottom: 44px;
+}
+
+.h1{
+  text-align: center;
+  padding-top: 63px;
+  padding-bottom: 12px;
+}
+
+
+.demonstracao{
+   display: flex;
+}
+
+.texto-demonstracao{
+   text-align: center;
+   padding-top: 12px;
+   padding-bottom: 12px;
+   margin-left: 205px;
+
+}
+
+.imagens-demonstracao
+{
+   text-align: center;
+   align-items: center;
+   padding-left: 47px;
+   padding-bottom: 119px;
+}
+
+
+
+
+
+.avaliacao{
+    background-color: #ffbe0b;
+    text-align: center;
+}
+.titulo-avaliacao{
+    padding-top: 67px;
+    padding-bottom: 42px;
+
+}
+.img-c{
+  padding-bottom: 67px;
+}
+
+
+
+.coluna-iphone{
+    display: flex;
+    align-items: center;
+    padding-left: 283.36px;
+}
+.stars{
+    display: flex;
+}
+.stars2{
+    padding-left: 17px;
+}
+.app{
+    color: #2203e4;
+    font-size: 36px;
+}
+.car{
+    text-decoration: none;
+    color: white;
+    background-color: #0062ff;
+    font-size: 16px;
+    padding: 10px 16px 10px 16px;
+}
+.app2{
+    padding-bottom: 16px;
+}
+.desconto{
+    text-align: center;
+}
+.e-mail{
+ padding-top: 25px;
+ padding-left: 24px;
+ padding-bottom: 26px;
+ padding-right: 270px;
+ background-color: #3a85ff80;
+ text-decoration: none ;
+ border-radius: 12px;
+ color: #2203e4;
+}
+.querod{
+ display: block;
+ padding-top:30px;
+
+}
+.d2{
+    padding-bottom: 28px;
+}
+.qbotao{
+    padding-top: 10px;
+    padding-left: 176px;
+    padding-bottom: 10px;
+    padding-right: 176px;
+    background-color: #0062ff;
+    color: white;
+    border-color: transparent;
+
+}
+.mark{
+    padding-right: 250px;
 }
